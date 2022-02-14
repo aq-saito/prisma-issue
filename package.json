@@ -1,0 +1,11 @@
+{
+  "name": "experimental",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "prisma": "3.9.2"
+  },
+  "dependencies": {
+    "@prisma/client": "3.9.2"
+  }
+}
